@@ -1,0 +1,15 @@
+
+<html>
+<title> This is my Website</title>
+<h1> This is Cool <h1>
+<p> Hello there </p>
+
+<<<<<<< HEAD
+<p> SaveDevops </p>
+<p>:)</p>
+=======
+<p> Devops </p>
+<p>:) Feature b</p>
+>>>>>>> b763456... made changes to index
+</html>
+
